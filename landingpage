@@ -1,7 +1,6 @@
-echo "# recupmailpadel" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "Premiere version de la landing page"
 git branch -M main
-git remote add origin https://github.com/padelpro-ft/recupmailpadel.git
+git remote add origin TON_LIEN_GITHUB
 git push -u origin main
